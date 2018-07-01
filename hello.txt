@@ -1,3 +1,4 @@
 print("HELLO")
 print("HELLO, SASHA")
 print("привет, киса")
+print("привет, зая")
